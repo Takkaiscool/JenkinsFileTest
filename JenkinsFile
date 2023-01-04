@@ -3,9 +3,10 @@ pipeline {
     parameters {
         string(name: 'SUITENAME', defaultValue: 'Hello', description: 'How should I greet the world?')
     }
-    properties([
-        pipelineTriggers([cron('M/1 * * * *')])
-    ])
+    triggers{
+        cron("*/1 * * * *")
+    }
+
     stages {
         stage('Build') {
             steps {
