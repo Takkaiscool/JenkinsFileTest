@@ -23,8 +23,8 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo 'Deploying....'
-                bat "echo in deploy to execute the scripts
-                       echo again something else ${SUITENAME}"
+                bat '''echo in deploy to execute the scripts
+                       echo again something else "${SUITENAME}"'''
             }
         }
     }
