@@ -24,7 +24,7 @@ pipeline {
             steps {
                 echo 'Deploying....'
                 bat '''echo in deploy to execute the scripts
-                       echo again something else "${SUITENAME}"'''
+                       echo again something else ${SUITENAME}'''
             }
         }
     }
