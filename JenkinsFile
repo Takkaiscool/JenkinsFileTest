@@ -1,6 +1,8 @@
 pipeline {
     agent any
-
+    parameters {
+        string(name: 'SUITENAME', defaultValue: 'Hello', description: 'How should I greet the world?')
+    }
     stages {
         stage('Build') {
             steps {
@@ -11,6 +13,7 @@ pipeline {
         stage('Test') {
             steps {
                 echo 'Testing..'
+                echi '${SUITENAME}'
             }
         }
         stage('Deploy') {
