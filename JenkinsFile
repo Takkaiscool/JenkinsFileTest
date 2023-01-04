@@ -27,7 +27,7 @@ pipeline {
                 echo "Post Method"
             }
             failure {
-                mail to: dbsccnt@gmail.com, subject: 'The Pipeline failed :('
+               echo "failure"
             }
         }
 }
