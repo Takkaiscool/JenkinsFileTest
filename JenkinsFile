@@ -22,4 +22,12 @@ pipeline {
             }
         }
     }
+    post {
+            always {
+                echo "Post Method"
+            }
+            failure {
+                mail to: dbsccnt@gmail.com, subject: 'The Pipeline failed :('
+            }
+        }
 }
