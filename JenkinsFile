@@ -16,7 +16,7 @@ pipeline {
         }
         stage('Test') {
             steps {
-               withMaven {
+               maven(maven : 'maven') {
                      sh "mvn clean test"
                    } //
                 echo 'Testing..'
