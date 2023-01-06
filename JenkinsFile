@@ -45,7 +45,7 @@ tools {
                                     [key: 'Submitter', value: 'Arun']
                             ],
                             reportTitle: 'My report',
-                            fileIncludePattern: '**/*cucumber-report.json',
+                            fileIncludePattern: '**/*.json',
                             sortingMethod: 'ALPHABETICAL',
                             trendsLimit: 100
                 }
