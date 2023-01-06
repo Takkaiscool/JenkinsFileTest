@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="807d0b54-6b84-44ba-8437-b8717f2656dc" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/t.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Verify debit notes approval functionality.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Listen/Listener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Listen/Listener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageObject/DashboardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PageObject/DashboardPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageObject/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PageObject/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Reports/ReportManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Reports/ReportManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Reports/TestManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Reports/TestManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test/ExecuteBuild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/ExecuteBuild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test/GetStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/GetStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/APIActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/core/utils/APIActions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/CsvReadAndWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/core/utils/CsvReadAndWrite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/ElementControls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/core/utils/ElementControls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/ExcelReadAndWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/core/utils/ExcelReadAndWrite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/JsonFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/core/utils/JsonFileReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/PageControls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/core/utils/PageControls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/PropertiesFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/core/utils/PropertiesFileReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/WebdriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/core/utils/WebdriverManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/runner/execute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/execute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/extent.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/extent.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/log4j.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JenkinsFile" beforeDir="false" afterPath="$PROJECT_DIR$/JenkinsFile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -337,7 +312,28 @@
       <option name="project" value="LOCAL" />
       <updated>1672810228196</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="test">
+      <created>1673008910736</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1673008910736</updated>
+    </task>
+    <task id="LOCAL-00022" summary="test">
+      <created>1673008966787</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1673008966787</updated>
+    </task>
+    <task id="LOCAL-00023" summary="test">
+      <created>1673009080568</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1673009080568</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
